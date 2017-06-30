@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/WhiteWhiskey/estore.svg?branch=master)](https://travis-ci.org/WhiteWhiskey/estore)
 [![Stories in Ready](https://badge.waffle.io/WhiteWhiskey/estore.png?label=ready&title=Ready)](https://waffle.io/WhiteWhiskey/estore?utm_source=badge)
 # README
 
